@@ -36,12 +36,15 @@ Dashboard ini menjawab pertanyaan analisis utama terkait efisiensi bahan bakar m
 📍 1. Distribusi Nilai MPG
 - Nilai mpg dominan di rentang 15–30, menandakan mayoritas mobil memiliki efisiensi bahan bakar sedang.
 - Mobil dari Eropa dan Jepang cenderung memiliki nilai mpg lebih tinggi dibanding mobil dari USA.
+
 📍 2. Rata-rata MPG Berdasarkan Jumlah Silinder
 - Mobil dengan 4 silinder jauh lebih efisien (mpg rata-rata > 30).
 - Mobil 8 silinder cenderung boros (mpg < 20).
+
 📍 3. Hubungan Weight vs MPG
 - Terlihat korelasi negatif kuat antara berat mobil dan efisiensi bahan bakar.
 - Semakin berat mobil, semakin rendah nilai mpg.
+
 📍 4. Tren Rata-rata MPG per Tahun
 - Terdapat tren peningkatan nilai mpg dari tahun 1970 hingga 1982.
 - Hal ini menunjukkan adanya peningkatan teknologi otomotif menuju efisiensi energi yang lebih baik.
