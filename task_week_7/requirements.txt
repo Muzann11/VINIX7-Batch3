@@ -1,0 +1,12 @@
+# === Environment untuk Dashboard Auto MPG ===
+# Dibuat oleh Muhammad Fauzan
+# Tested pada Python 3.11.13
+
+panel
+hvplot
+bokeh
+holoviews
+param
+pandas
+numpy
+ucimlrepo
